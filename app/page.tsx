@@ -23,7 +23,6 @@ export default function Home() {
       {/* CTA Button */}
       
 
-// Replace the button with:
 <Link href="/login">
   <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-full text-lg transition">
     Build My Resume Free →
